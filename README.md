@@ -34,7 +34,7 @@ This repository contains the assignment implementation focused on **embedded sys
   ---
 
   ## ▶️ How to Build / Run the Code (Output)
-  ![image alt]()
+  ![image alt](https://github.com/prathamjoshi-1/Velastra-Embedded-Assignment/blob/c447c373cfcc255e76426c9b97219933aba9312c/assets/Problem_01_Output.png)
 
 ---
 
