@@ -1,4 +1,4 @@
-##📘 I2C Sensor Handling on Raspberry Pi
+📘 I2C Sensor Handling on Raspberry Pi
 
 🧭 Overview
 
