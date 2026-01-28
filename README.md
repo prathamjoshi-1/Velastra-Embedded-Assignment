@@ -66,4 +66,5 @@ The design follows strict constraints commonly found in firmware development env
 ## ▶️ How to Build / Run the Code
 
 #### Compile
+````bash
 gcc i2c_sensor_simulation.c -o sensor_app
