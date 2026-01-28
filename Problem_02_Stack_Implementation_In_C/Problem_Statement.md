@@ -1,4 +1,4 @@
-## 📘 Stack Implementation in C (Sensor Error Codes)
+# 📘 Stack Implementation in C (Sensor Error Codes)
 
 🧭 Overview
 
