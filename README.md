@@ -39,7 +39,7 @@ This repository contains the assignment implementation focused on **embedded sys
 ```bash
 gcc i2c_sensor_simulation.c -o sensor_app
 
----
+
 
 # 🧩 Problem 2: Stack Implementation in C (Linked List)
 
