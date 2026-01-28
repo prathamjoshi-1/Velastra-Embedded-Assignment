@@ -31,6 +31,11 @@ This repository contains the assignment implementation focused on **embedded sys
 - 🖥️ **Cross-Platform Compatibility**  
   Conditional compilation enables execution on both **Windows** and **Linux/Raspberry Pi** environments.
 
+  ---
+
+  ## ▶️ How to Build / Run the Code (Output)
+  ![image alt]()
+
 ---
 
 # 🧩 Problem 2: Stack Implementation in C (Linked List)
@@ -60,7 +65,9 @@ The design follows strict constraints commonly found in firmware development env
 
 - 🧩 **Separation of Logic**  
   Stack initialization, push, pop, overflow handling, and display logic are clearly separated for better readability and maintainability.
-
+  ---
+  ## ▶️ How to Build / Run the Code (Output)
+  ![image alt]()
 ---
 
 ## ▶️ How to Build / Run the Code
