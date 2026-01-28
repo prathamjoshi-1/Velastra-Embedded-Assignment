@@ -1,6 +1,6 @@
-📘 I2C Sensor Handling on Raspberry Pi
+# 📘 I2C Sensor Handling on Raspberry Pi
 
-🧭 Overview
+## 🧭 Overview
 
 This project demonstrates a robust and production-grade implementation of I2C sensor communication on a Raspberry Pi. The focus is on reliability, fault handling, and graceful recovery, which are critical requirements in real-world embedded and IoT systems.
 
@@ -9,14 +9,14 @@ The Raspberry Pi acts as the I2C controller (master) and communicates with an ex
 
 ---
 
-🧩 Problem Statement
+## 🧩 Problem Statement
 
 Design and implement an application that communicates with an I2C-based sensor connected to a Raspberry Pi. The system must continuously fetch sensor data while handling communication failures and sensor errors gracefully.
 
 
 ---
 
-⚙️ System Setup
+## ⚙️ System Setup
 
 🖥️ Controller: Raspberry Pi (I2C Master)
 
@@ -35,7 +35,7 @@ Design and implement an application that communicates with an I2C-based sensor c
 
 ---
 
-🎯 Objectives
+## 🎯 Objectives
 
 The application must achieve the following:
 
@@ -85,7 +85,7 @@ Ensure no application crash or undefined behavior during failures
 
 ---
 
-🧠 Design Considerations
+## 🧠 Design Considerations
 
 Modular and maintainable code structure
 
