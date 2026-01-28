@@ -71,3 +71,11 @@ The design follows strict constraints commonly found in firmware development env
 #### Compile
 ```bash
 gcc stack_error_logger.c -o stack_app
+
+
+
+### ▶️ How to Build / Run the Code
+
+#### Compile
+```bash
+gcc i2c_sensor_simulation.c -o sensor_app
