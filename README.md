@@ -1,6 +1,6 @@
 # 📘 Embedded Systems Assignment (C Language)
 
-This repository contains the M6 assignment implementation focused on **embedded system fundamentals**, including **I2C sensor handling**, **fault recovery**, and **data structure design** using the **C programming language**.
+This repository contains the assignment implementation focused on **embedded system fundamentals**, including **I2C sensor handling**, **fault recovery**, and **data structure design** using the **C programming language**.
 
 ---
 
