@@ -67,7 +67,7 @@ The design follows strict constraints commonly found in firmware development env
   Stack initialization, push, pop, overflow handling, and display logic are clearly separated for better readability and maintainability.
   ---
   ## ▶️ How to Build / Run the Code (Output)
-  ![image alt]()
+  ![image alt](https://github.com/prathamjoshi-1/Velastra-Embedded-Assignment/blob/67658eca21c6abeca482d652545e928d3fd6437b/assets/Problem_02_Output.png)
 ---
 
 ## ▶️ How to Build / Run the Code
